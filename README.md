@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 QA Intelligence Platform
+# QA Intelligence Platform
 ### *AI-Powered Test Execution & Automated Bug Reporting Engine*
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://workers.cloudflare.com/)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Executive Overview
+## Executive Overview
 
 **QA Intelligence Platform** is an ultra-fast, serverless AI application designed for QA Engineers, Software Developers, and Product Managers. It bridges the gap between software requirements and quality assurance execution by automatically generating structured, multi-scenario Test Execution Matrices directly from raw **Acceptance Criteria (AC)**.
 
@@ -24,17 +24,17 @@ Built on top of **Cloudflare Workers** and powered by **Google Gemini 3.8 Flash*
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🎯 **Automated Scenario Generation:** Analyzes User Stories & Acceptance Criteria to generate Positive, Negative, and Edge-Case Test Scenarios.
-- 📊 **Dynamic Execution Matrix:** Interactive, editable table allowing real-time modification of **Actual Results** and status toggles (`Untested`, `Passed`, `Failed`).
-- 🐛 **Instant Bug Report Engine:** Automatically detects `Failed` test conditions and builds structured, reproducible Bug Reports in real-time.
-- ⚡ **Zero-Serverless Overhead:** Powered by `workerd` Edge runtime for blazing-fast response times globally.
-- 🎨 **Minimalist UI/UX:** Clean, distraction-free interface built with modern Tailwind CSS.
+- **Automated Scenario Generation:** Analyzes User Stories & Acceptance Criteria to generate Positive, Negative, and Edge-Case Test Scenarios.
+- **Dynamic Execution Matrix:** Interactive, editable table allowing real-time modification of **Actual Results** and status toggles (`Untested`, `Passed`, `Failed`).
+- **Instant Bug Report Engine:** Automatically detects `Failed` test conditions and builds structured, reproducible Bug Reports in real-time.
+- **Zero-Serverless Overhead:** Powered by `workerd` Edge runtime for blazing-fast response times globally.
+- **Minimalist UI/UX:** Clean, distraction-free interface built with modern Tailwind CSS.
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```text
 ┌────────────────────────────────────────────────────────┐
