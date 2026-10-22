@@ -53,3 +53,5 @@ Built on top of **Cloudflare Workers** and powered by **Google Gemini 3.8 Flash*
 │          Google Gemini 3.8 Flash REST API              │
 │       (Structured QA Test Case Prompt Engine)          │
 └────────────────────────────────────────────────────────┘
+<img width="1920" height="1080" alt="Screenshot 2026-10-17 230555" src="https://github.com/user-attachments/assets/30c1b5d3-473f-4c13-9317-46f15ac9e77d" />
+
